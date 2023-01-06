@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NBA Team Picker </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="city">City</string>
+    <string name="name">Name</string>
+    <string name="conference">Conference</string>
+    <string name="division">Division</string>
+    <string name="pick_a_team">Pick A Team</string>
+</resources>
